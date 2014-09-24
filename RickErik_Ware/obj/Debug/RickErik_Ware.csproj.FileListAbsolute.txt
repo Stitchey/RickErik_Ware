@@ -1,1 +1,2 @@
 c:\users\su14eriks\documents\visual studio 2013\Projects\RickErik_Ware\RickErik_Ware\bin\Debug\RickErik_Ware.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\RickErik_Ware\RickErik_Ware\bin\Debug\RickErik_Ware.exe.config
